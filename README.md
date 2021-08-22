@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://beacons.ai/fisaque00">
-<img height="180em" src=https://github-readme-stats.vercel.app/api?username=fisaque00&show_icons=true&theme=cobal)>
+<img height="180em" src=https://github-readme-stats.vercel.app/api?username=fisaque00&show_icons=true&theme=)>
 <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=fisaque00&hide=ruby,shell)](https://github.com/fisaque00/github-readme-stats)/>
 </div>
 
