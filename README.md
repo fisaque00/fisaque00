@@ -15,11 +15,5 @@
  ![icons8-javascript-48](https://user-images.githubusercontent.com/78705874/134753546-64349a80-90ca-47da-9fac-d8537e3b340b.png)
  ![icons8-git-48](https://user-images.githubusercontent.com/78705874/134753544-63eae1cf-cb09-4799-93cf-7c397afb5f0c.png)
  
-<div>
-  <a href="https://beacons.ai/fisaque00">
-<img height="180em" src=https://github-readme-stats.vercel.app/api?username=fisaque00&show_icons=true&theme=)>
-<img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=fisaque00&hide=ruby,shell,java,html)](https://github.com/fisaque00/fisaque00/edit/main/README.md)/>
-</div>
 
-  
-
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fisaque00&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fisaque00&layout=compact)](https://github.com/fisaque00/github-readme-stats)
