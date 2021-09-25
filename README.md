@@ -2,7 +2,7 @@
 
 
 - 🔭 Sou autodidata e adoro aprender novas tecnologias...
-- 🌱 Estou estudando Front-end(Html,css,Javascript) e também me aventurando no Beck-end em Java"
+- 🌱 Estou estudando Front-end(Html,css,Javascript) e também me aventurando no Back-end em Java e pyton"
 - 📫 contate-me no email fisaque00@gmail.com
 - 😄  ...
 
