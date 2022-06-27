@@ -2,7 +2,7 @@
 
 
 - 🔭 Sou autodidata e adoro aprender novas tecnologias...
-- 🌱 Estou me capacitando em python, e python para análise de dados e conheço um pouco de Front-end(Html,css,Javascript)
+- 🌱 Estou me capacitando em python, e python para análise de dados, e conheço um pouco de Front-end(Html,css,Javascript)
 - - 📫 contate-me no email fisaque00@gmail.com
 - 😄  ...
 
